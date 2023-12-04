@@ -1,7 +1,5 @@
 # text_alignment_analysis
 
-# Quora Text Analysis Project in Python
-
 ## Introduction
 
 This Python project focuses on analyzing text data from Quora, a popular question and answer platform. The goal is to gain insights into the nature of the questions and user interactions, and to extract meaningful information from the textual content.
